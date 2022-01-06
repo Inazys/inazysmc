@@ -1,0 +1,2 @@
+# inazysmc
+Minecraft Website
